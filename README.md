@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+# my-zprezto
+Personal Zprezto Repository
+Forked from: https://github.com/sorin-ionescu/prezto
+
 Prezto — Instantly Awesome Zsh
 ==============================
 
@@ -116,7 +119,3 @@ SOFTWARE.
 [6]: http://gitref.org
 [7]: http://www.bash2zsh.com/zsh_refcard/refcard.pdf
 [8]: http://grml.org/zsh/zsh-lovers.html
-=======
-# my-zprezto
-Personal Zprezto Repository
->>>>>>> refs/remotes/origin/master
